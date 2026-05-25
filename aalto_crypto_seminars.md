@@ -1,9 +1,5 @@
 # Crypto Seminars — Aalto University
 
-Talks announced on the crypto-seminars mailing list: https://list.aalto.fi/pipermail/crypto-seminars/
-Listed most recent first.
-
----------
 
 ## TBD
 
@@ -36,7 +32,6 @@ To achieve a high encoding rate, we extend the formalisation of stegosystems to 
 
 Our prototype implementation suggests that our scheme is practical, achieving an embedding rate of 24.7\% in 24-megapixel RAW images in around 1 minute per image.
 
----------
 
 ## Cyclo: Lightweight Lattice-based Folding via Partial Range Checks
 
@@ -62,7 +57,6 @@ We also establish an algebraic connection between R_q and F_q using the polynomi
 
 In practical settings, Cyclo achieves succinct proof sizes on the order of 30 KB, improving by an order of magnitude over LatticeFold+. Our efficiency benchmarks indicate that our protocol also outperforms LatticeFold+ in practice.
 
----------
 
 ## On Local Invariants for Permutation Equivalence
 
