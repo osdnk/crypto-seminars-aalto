@@ -5,6 +5,16 @@ Listed most recent first.
 
 ---------
 
+## TBD
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **Date**          | 03 June 2026      |
+| **Time**          | 11:00–12:00      |
+| **Place**         | Maarintie 8, 1171 TU3 |
+| **Speaker**       | Shuto Kuriyama          |
+
+
 ## Look Ahead! Practical CCA-secure Steganography: Cover-Source Switching meets Lattice Gaussian Sampling
 
 |                   |                  |
