@@ -339,7 +339,7 @@ Finally, we conclude with a discussion of conceptual insights and guidelines for
 | **Date**          | 16 April 2025    |
 | **Time**          | 13:00–14:00      |
 | **Place**         | T5, Konemiehentie 2 (CS Building), Espoo |
-| **Speaker**       | Mihał Osadnik    |
+| **Speaker**       | Michał Osadnik    |
 
 **Abstract.** A verifiable delay function (VDF) requires a specified number of sequential steps to compute, yet the validity of its output can be verified efficiently, much faster than recomputing the function from scratch. VDFs are a versatile cryptographic tool with many industrial applications, such as blockchain consensus protocols, lotteries and verifiable randomness. Unfortunately, without exceptions, all known practical VDF constructions are broken by quantum algorithms.
 
