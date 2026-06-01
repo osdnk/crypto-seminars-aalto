@@ -1,14 +1,22 @@
 # Crypto Seminars — Aalto University
 
 
-## TBD
+## Compact Lattice Signatures via Iterative Rejection Sampling
 
 |                   |                  |
 | ----------------- | ---------------- |
 | **Date**          | 03 June 2026      |
 | **Time**          | 11:00–12:00      |
-| **Place**         | Maarintie 8, 1171 TU3 |
+| **Place**         | T4, CS Building |
 | **Speaker**       | Shuto Kuriyama          |
+| **Paper title**   | Compact Lattice Signatures via Iterative Rejection Sampling |
+| **Paper authors** | Joel Gärtner |
+
+**Abstract** One of the primary approaches for constructing lattice-based signature schemes is through the “Fiat-Shamir with aborts” methodology. Schemes constructed using this approach may abort and restart during signing, corresponding to rejection sampling produced signatures in order to ensure that they follow a distribution that is independent of the secret key. This rejection sampling is only feasible when the out- put distribution is sufficiently wide, limiting how compact this type of signature schemes can be.
+
+In this work, we develop a new method to construct lattice signatures with the “Fiat-Shamir with aborts” approach. By constructing signatures in a way that is influenced by the rejection condition, we can significantly lower the rejection probability. This allows our scheme to use an iterative rejection sampling to target narrower output distributions than previous methods, resulting in much more compact signatures.
+
+In the most compact variant of our new signature scheme, the combined size of a signature and a verification key is less than half of that for ML-DSA and comparable to that of compact hash-and-sign lattice sig- nature schemes, such as Falcon. Alternatively, by targeting a somewhat wider distribution, the rejection condition of the scheme can be securely ignored. This non-aborting variant of our scheme still retains a notable size advantage over previous lattice-based Fiat-Shamir schemes.
 
 
 ## Look Ahead! Practical CCA-secure Steganography: Cover-Source Switching meets Lattice Gaussian Sampling
