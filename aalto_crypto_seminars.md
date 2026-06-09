@@ -1,6 +1,18 @@
 # Crypto Seminars — Aalto University
 
 
+## Adaptive Streaming Functional Encryption
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **Date**          | 07 June 2026      |
+| **Time**          | 11:00–12:00      |
+| **Place**         | 1021 AS3 Saab Space, Maarintie 8 |
+| **Speaker**       | Kirthivaasan Puniamurthy       |
+
+**Abstract** In this talk, I will present the notion of function adaptive streaming functional encryption (sFE), and a building block for sFE, namely OneStreaming sFE. Then, I will show how (in work that is currently under submission) we imported proof techniques (i.e. pebbling) from adaptive security of garbling schemes to prove that our Yao-based construction for OneStreaming is secure for functions in NC1 - the class of fan-in 2, log-depth Boolean circuits. Prior work by Datta, Guan, Korb and Sahai (DGKS, TCC’25) constructed OneStreaming sFE using indistinguishability obfuscation (iO), whereas our construction relies only on one-way functions! Note that DGKS's construction was proven to be secure for functions in P/poly, whereas our construction could be proven secure only for NC1 functions. However, NC1 is still an interesting class, especially for streaming applications, e.g. frequentist statistics and machine learning (and maybe even crypto, although we have yet to find a convincing application).
+
+
 ## Compact Lattice Signatures via Iterative Rejection Sampling
 
 |                   |                  |
