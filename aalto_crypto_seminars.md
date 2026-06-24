@@ -1,6 +1,18 @@
 # Crypto Seminars — Aalto University
 
 
+## CHOPIN: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **Date**          | 01 July 2026      |
+| **Time**          | 11:00–12:00      |
+| **Place**         | 1021 AS3 Saab Space, Maarintie 8 |
+| **Speaker**       | Aleksi Kalsta       |
+
+**Abstract** We present Chopin, a pairing-based multilinear polynomial commitment scheme (PCS) achieving constant proof size and a linear-time prover, constructed modularly from a bivariate PCS. Chopin generalizes the recent compilers from univariate to multilinear PCS, including Mercury (Eagen and Gabizon, ePrint 2025/385) and Samaritan (Ganesh, Patranabis, and Singh, ASIACRYPT 2025). Due to its modular design, we obtain a direct proof of knowledge soundness via a reduction to the knowledge soundness of the underlying bivariate PCS in the standard model. In particular, our analysis avoids idealized models such as the Algebraic Group Model. When instantiated with the bivariate KZG scheme (Papamanthou, Shi, and Tamassia, TCC 2013), Chopin achieves proof size comparable to Mercury and Samaritan while improving the dominant prover cost by a factor of two. This improvement arises because Chopin requires only a single large MSM proportional to the size of the committed multilinear polynomial, in contrast to the two large MSMs required by the prior works, at the cost of one additional pairing for the verifier. Our theoretical prediction is supported by benchmarks: in the measured parameter range, Chopin’s end-to-end prover time is consistently close to one half of Mercury’s.
+
+
 ## Adaptive Streaming Functional Encryption
 
 |                   |                  |
