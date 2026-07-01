@@ -5,7 +5,7 @@
 
 |                   |                  |
 | ----------------- | ---------------- |
-| **Date**          | 01 July 2026      |
+| **Date**          | 08 July 2026      |
 | **Time**          | 11:00–12:00      |
 | **Place**         | 1021 AS3 Saab Space, Maarintie 8 |
 | **Speaker**       | Aleksi Kalsta       |
