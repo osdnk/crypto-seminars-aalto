@@ -1,5 +1,29 @@
 # Crypto Seminars — Aalto University
 
+## When Soundness Isn't Enough: (In)security of Zero-Knowledge Proofs for ML Model Auditing
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **Date**          | 07 August 2026      |
+| **Time**          | 11:00–12:00      |
+| **Place**         | 1021 AS3 Saab Space, Maarintie 8 |
+| **Speaker**       | Akira Takahashi      |
+
+In this talk, I will present a line of work on ZK for certifying machine learning models, such as proofs of accuracy, fairness, and correct training. I will explain why the standard soundness definition alone does not provide a meaningful guarantee in these applications, introduce a tailored soundness definition, and present secure instantiations with implementation results.
+
+
+## Isogeny-based Cryptography, Part I
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **Date**          | 05 August 2026      |
+| **Time**          | 11:00–12:00      |
+| **Place**         | 1021 AS3 Saab Space, Maarintie 8 |
+| **Speaker**       | Hoai      |
+
+"A mathematical problem, which is hypothetically strong against a quantum computer [...] consists in searching for an isogeny [...] between elliptic curves over a finite field." (Rostovtsev and Stolbunov in "Public-Key Cryptosystem Based on Isogenies")
+This talk demystifies Isogeny-Based Cryptography, a unique class of candidate post-quantum algorithms. Starting with elliptic curves, we will explore how isogenies connect them and what kind of graphs these two objects form. Then we will look into quaternion algebras, and finally see how the Deuring correspondence bridges the worlds of isogenies and quaternion algebras.
+
 
 ## CHOPIN: Optimal Pairing-Based Multilinear Polynomial Commitments from Bivariate KZG
 
