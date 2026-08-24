@@ -1,5 +1,18 @@
 # Crypto Seminars — Aalto University
 
+## Isogeny-based Cryptography, Part I
+
+|                   |                  |
+| ----------------- | ---------------- |
+| **Date**          | 26 August 2026      |
+| **Time**          | 11:00–12:00      |
+| **Place**         | Maarintie 8, 1171 TU3 |
+| **Speaker**       | Hoai      |
+
+"A mathematical problem, which is hypothetically strong against a quantum computer [...] consists in searching for an isogeny [...] between elliptic curves over a finite field." (Rostovtsev and Stolbunov in "Public-Key Cryptosystem Based on Isogenies")
+This talk demystifies Isogeny-Based Cryptography, a unique class of candidate post-quantum algorithms. Starting with elliptic curves, we will explore how isogenies connect them and what kind of graphs these two objects form. Then we will look into quaternion algebras, and finally see how the Deuring correspondence bridges the worlds of isogenies and quaternion algebras.
+
+
 ## When Soundness Isn't Enough: (In)security of Zero-Knowledge Proofs for ML Model Auditing
 
 |                   |                  |
