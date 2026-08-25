@@ -4,9 +4,9 @@
 
 |                   |                  |
 | ----------------- | ---------------- |
-| **Date**          | 26 August 2026      |
+| **Date**          | 02 September 2026      |
 | **Time**          | 11:00–12:00      |
-| **Place**         | Maarintie 8, 1171 TU3 |
+| **Place**         | Computer Science Building, C206 T3 |
 | **Speaker**       | Hoai      |
 
 "A mathematical problem, which is hypothetically strong against a quantum computer [...] consists in searching for an isogeny [...] between elliptic curves over a finite field." (Rostovtsev and Stolbunov in "Public-Key Cryptosystem Based on Isogenies")
