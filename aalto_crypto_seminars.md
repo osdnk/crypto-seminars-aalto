@@ -1,6 +1,6 @@
 # Crypto Seminars — Aalto University
 
-## Isogeny-based Cryptography, Part I
+## Isogeny-based Cryptography, Part II
 
 |                   |                  |
 | ----------------- | ---------------- |
@@ -9,8 +9,7 @@
 | **Place**         | Computer Science Building, C206 T3 |
 | **Speaker**       | Hoai      |
 
-**Abstract**  "A mathematical problem, which is hypothetically strong against a quantum computer [...] consists in searching for an isogeny [...] between elliptic curves over a finite field." (Rostovtsev and Stolbunov in "Public-Key Cryptosystem Based on Isogenies")
-This talk demystifies Isogeny-Based Cryptography, a unique class of candidate post-quantum algorithms. Starting with elliptic curves, we will explore how isogenies connect them and what kind of graphs these two objects form. Then we will look into quaternion algebras, and finally see how the Deuring correspondence bridges the worlds of isogenies and quaternion algebras.
+**Abstract** In this talk, we will explore SQISign, the only isogeny-based signature currently in the third round of the call for additional post-quantum signatures by NIST, as well as its security proof. It has the smallest known combined public-key and signature sizes across all post-quantum signature proposals. The scheme makes use of the Deuring correspondence, which establishes a bijection between maximal orders in a quaternion algebra and supersingular elliptic curves over a finite field. The security of SQISign relies on the presumed hardness of finding isogenies between supersingular elliptic curves and computing their endomorphism rings.
 
 
 ## When Soundness Isn't Enough: (In)security of Zero-Knowledge Proofs for ML Model Auditing
